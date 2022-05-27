@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu estou cursando Análise e Desenvolvimento de Sistemas em Faculdade de Engenharia de Sorocaba (FACENS)
-- 🌱 Estudando Java, HTML
+- 🌱 Estudando Java, HTML5 , CCS3
 
 <div align="center">
   <a href="https://github.com/rafaelprataa">
